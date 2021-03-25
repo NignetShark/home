@@ -1,0 +1,12 @@
+{
+  "policy" : {
+    "allowed_app_id" : [
+      "amzn1.ask.skill.MY_APP1_ID_HERE",
+      "amzn1.ask.skill.MY_APP2_ID_HERE"
+    ],
+    "allowed_usr_id" : [
+      "amzn1.ask.account.USER1_ID_HERE",
+      "amzn1.ask.account.USER2_ID_HERE"
+    ]
+  }
+}
